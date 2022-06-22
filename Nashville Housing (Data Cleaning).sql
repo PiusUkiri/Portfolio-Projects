@@ -1,3 +1,4 @@
+rm -rf .git
 /*
 Cleaning Data in SQL Queries
 */
